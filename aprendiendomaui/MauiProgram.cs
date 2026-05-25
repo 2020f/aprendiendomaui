@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-
+//eso
 namespace aprendiendomaui
 {
     public static class MauiProgram
